@@ -1,0 +1,56 @@
+[
+    {
+      "name" : "Surur",
+      "surname" :"Samaai",
+      "age" : "23",
+      "dreamCar" : [
+        {
+            "carName":"BMW",
+            "engineName":"Six cylinder",
+            "model":"X3 M"
+        }
+      ]
+    },
+    {
+      "name" : "Ibrahim",
+      "surname" :"Karlie",
+      "age" : "20",
+      "dreamCar" : [
+        {
+            "carName":"BMW",
+            "engineName":"V8",
+            "model":"M3"
+        }
+      ]
+    },
+    {
+      "name" : "Mikaeel",
+      "surname" :"Sedick",
+      "age" : "24",
+      "dreamCar" : [
+        {
+            "carName":"BMW",
+            "engineName":"S65",
+            "model":"M4"
+        },{
+            "carName":"Mustang",
+            "engineName":"V8",
+            "model":"GT 500"
+        }
+      ]
+    },
+    {
+      "name" : "Uzair",
+      "surname" :"Meyer",
+      "age" : "23",
+      "dreamCar" : [
+        {
+            "carName":"Mithubitshi",
+            "engineName":"I4",
+            "model":"Evo 9"
+        }
+      ]
+    }
+    
+    
+]
